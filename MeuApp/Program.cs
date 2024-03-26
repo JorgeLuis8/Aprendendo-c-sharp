@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace MeuApp 
+namespace MeuApp
 {
     internal class Program
     {
