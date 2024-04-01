@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = MeuApp
-build_property.ProjectDir = C:\Users\Jorge Luis\Documents\GitHub\Aprendendo-c-sharp\MeuApp\
+build_property.ProjectDir = C:\Users\jorge\OneDrive\Documentos\GitHub\Aprendendo-c-sharp\MeuApp\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
