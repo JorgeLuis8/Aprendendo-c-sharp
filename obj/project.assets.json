@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jorge\\OneDrive\\Documentos\\GitHub\\Aprendendo-c-sharp\\MeuApp\\MeuApp.csproj",
-      "projectName": "MeuApp",
-      "projectPath": "C:\\Users\\jorge\\OneDrive\\Documentos\\GitHub\\Aprendendo-c-sharp\\MeuApp\\MeuApp.csproj",
+      "projectUniqueName": "C:\\Users\\jorge\\OneDrive\\Documentos\\GitHub\\Aprendendo-c-sharp\\Aprendendo-c-sharp.csproj",
+      "projectName": "Aprendendo-c-sharp",
+      "projectPath": "C:\\Users\\jorge\\OneDrive\\Documentos\\GitHub\\Aprendendo-c-sharp\\Aprendendo-c-sharp.csproj",
       "packagesPath": "C:\\Users\\jorge\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jorge\\OneDrive\\Documentos\\GitHub\\Aprendendo-c-sharp\\MeuApp\\obj\\",
+      "outputPath": "C:\\Users\\jorge\\OneDrive\\Documentos\\GitHub\\Aprendendo-c-sharp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\jorge\\AppData\\Roaming\\NuGet\\NuGet.Config"
