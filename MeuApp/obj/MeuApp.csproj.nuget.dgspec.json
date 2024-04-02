@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Jorge Luis\\Documents\\GitHub\\Aprendendo-c-sharp\\MeuApp\\MeuApp.csproj": {}
+    "C:\\Users\\jorge\\OneDrive\\Documentos\\GitHub\\Aprendendo-c-sharp\\MeuApp\\MeuApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Jorge Luis\\Documents\\GitHub\\Aprendendo-c-sharp\\MeuApp\\MeuApp.csproj": {
+    "C:\\Users\\jorge\\OneDrive\\Documentos\\GitHub\\Aprendendo-c-sharp\\MeuApp\\MeuApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Jorge Luis\\Documents\\GitHub\\Aprendendo-c-sharp\\MeuApp\\MeuApp.csproj",
+        "projectUniqueName": "C:\\Users\\jorge\\OneDrive\\Documentos\\GitHub\\Aprendendo-c-sharp\\MeuApp\\MeuApp.csproj",
         "projectName": "MeuApp",
-        "projectPath": "C:\\Users\\Jorge Luis\\Documents\\GitHub\\Aprendendo-c-sharp\\MeuApp\\MeuApp.csproj",
-        "packagesPath": "C:\\Users\\Jorge Luis\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Jorge Luis\\Documents\\GitHub\\Aprendendo-c-sharp\\MeuApp\\obj\\",
+        "projectPath": "C:\\Users\\jorge\\OneDrive\\Documentos\\GitHub\\Aprendendo-c-sharp\\MeuApp\\MeuApp.csproj",
+        "packagesPath": "C:\\Users\\jorge\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jorge\\OneDrive\\Documentos\\GitHub\\Aprendendo-c-sharp\\MeuApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Jorge Luis\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\jorge\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
