@@ -60,8 +60,18 @@
 // Console.WriteLine(inteiro);
 
 //operadores ariticmeticos
-var a = 10;
-var b = 2;
-var c = a + b;
+// var a = 10;
+// var b = 2;
+// var c = a + b;
 
-Console.WriteLine(c);
+// Console.WriteLine(c);
+
+for(int i=0;i<10;i++){
+    Console.WriteLine(i);
+}
+
+int j = 0;
+while(j < 10){
+    Console.WriteLine(j);
+    j++;
+}
