@@ -1,15 +1,14 @@
 ﻿using System;
 
-namespace MeuApp
-{
+namespace MeuApp{
 
-    class Program
-    {
+    class Program{
 
-        static void Main(string[] args)
-        {
-           Console.Clear();
+        static void Main(string[] args){
+           var texto = "Este texto é um teste";
+           Console.WriteLine(texto.StartsWith("Este"));
+           
         }
     
-}
+    }
 }
