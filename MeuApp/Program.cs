@@ -8,48 +8,36 @@ namespace MeuApp
 
         static void Main(string[] args)
         {
-            var mouse = new Product(1, "Mouse", 50.00,EProducType.Product);
-            var manutencao = new Product(2,"Manutenção",100.00,EProducType.Service);
+            var limpeza = new Product(1,"Limpeza de pc",132.99,EProductType.Service);
+            var mouse = new Product(2,"Mouse",50.00,EProductType.Product);
 
-            Console.WriteLine(mouse.Name);
-            Console.WriteLine(mouse.Price);
-            Console.WriteLine(mouse.Id);
-            Console.WriteLine(mouse.Type);
-
-            Console.WriteLine(manutencao.Id);
-            Console.WriteLine(manutencao.Name);
-            Console.WriteLine(manutencao.Price);
-            Console.WriteLine(manutencao.Type);
+            Console.WriteLine(limpeza.Name);
+            Console.WriteLine(limpeza.Price);
+            Console.WriteLine(limpeza.Id);
+            Console.WriteLine(limpeza.Type);
+            Console.WriteLine(limpeza.PriceInDollar(5.00));
         }
     }
-
-    struct Product
-    {
-        public Product(int id, string name, double price,EProducType type)
-        {
+    struct Product{
+        public Product(int id, string name,double price, EProductType type){
             Id = id;
             Name = name;
             Price = price;
             Type = type;
-
         }
+
         public int Id;
         public string Name;
         public double Price;
-        public EProducType Type;    
+        public EProductType Type;
 
-        public double PriceInDollar(double dolar)
-        {
-            return Price * dolar;
-        }
-        public double Desconto(double percentual)
-        {
-            return Price - (Price * percentual / 100.0);
+        public double PriceInDollar(double dollar){
+            return Price * dollar;
         }
     }
-
-    enum EProducType{
+    enum EProductType{
         Product = 1,
         Service = 2,
+    
     }
 }
